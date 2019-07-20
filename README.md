@@ -1,2 +1,0 @@
-# JsGame
-Created with CodeSandbox
